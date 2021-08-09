@@ -1,6 +1,6 @@
 ### Hi! I am Caleb Aguilar :notes:
 
-I am a formerly pure mathematician from Universidad Nacional Autónoma de México. I love to work in communication / divulgation of science, so my bachelor thesis is written in a way that everyone could read and understand it by easy examples. Was written in spanish and you can download it as pdf in this link: http://132.248.9.195/ptd2021/junio/0813173/Index.html
+I am a formerly pure mathematician from Universidad Nacional Autónoma de México. I love to work in communication / divulgation of science, so my bachelor thesis is written in a way that everyone could read and understand it by easy examples. Was written in Spanish and you can download it as pdf in this link: http://132.248.9.195/ptd2021/junio/0813173/Index.html
 
 Recently I fall in love with the Data Science world and related topics as Natural Language Processing. So here you are going to see a little of my work in that way.
 
