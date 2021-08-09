@@ -8,7 +8,7 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
 
 :closed_book: I'm a: Mathematician
 
-🌱 I’m currently learning: Deep Learning with PyTorch & TensorFlow. Data Science with R.
+🌱 I’m currently learning: Deep Learning with PyTorch & TensorFlow. Data Science with R. Go. Google Data Analytics. Korean, etc.
 
 💬 Ask me about: Combinatorics
 
