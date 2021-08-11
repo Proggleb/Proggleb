@@ -12,7 +12,11 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
 
 💬 Ask me about: Combinatorics
 
-:dress: Fun facts: Im deeply in love with Chaeyoung and Twice so I am a ONCE. <3 I love diversity and inclusion
+:dress: Fun facts: 
+  Im deeply in love with Chaeyoung and Twice so I am a ONCE. <3 
+  I love diversity and inclusion
+  I am a music lover, specially K-pop & Mathcore, Tech Death Metal, etc.
+  Favorite song: Polyphia - Nasty. Link: https://youtu.be/i7UkKEEGgAQ
 
 [![Linkedin Badge](https://img.shields.io/badge/-Follow_Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/proggleb//)](https://www.linkedin.com/in/proggleb/)
 
