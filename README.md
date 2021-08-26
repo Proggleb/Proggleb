@@ -33,15 +33,15 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
 ![](https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&logo=python&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/Python-Seaborn-informational?style=flat&logo=python&logoColor=white&color=00cccc)
 
-![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=MySQL&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=00cccc)
 
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/IDE-Visual-code-studio-informational?style=flat&logo=pycharm&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/IDE-Visual-code-studio-informational?style=flat&logo=visualcodestudio&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=00cccc)
 
 ![](https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
 
-## My GitHub Stats
+### My GitHub Stats
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 <p align="center"> 
   <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=proggleb&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
