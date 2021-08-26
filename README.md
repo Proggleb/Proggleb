@@ -21,13 +21,10 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
 
 :dress: Fun facts: 
 
-  Im deeply in love with Chaeyoung and Twice so I am a ONCE. <3 
-  
-  I love diversity and inclusion
-  
-  I am a music lover, specially K-pop & Mathcore, Tech Death Metal, etc.
-  
-  Favorite song: Polyphia - Nasty. Link: https://youtu.be/i7UkKEEGgAQ
+  - Im deeply in love with Chaeyoung and Twice so I am a ONCE. <3 
+  - I love diversity and inclusion
+  - I am a music lover, specially K-pop & Mathcore, Tech Death Metal, etc.
+  - Favorite song: Polyphia - Nasty. Link: https://youtu.be/i7UkKEEGgAQ
   
 ## Skills
 ![](https://img.shields.io/badge/Python-Python3-informational?&style=flat&logo=python&logoColor=white&color=00cccc)
@@ -45,23 +42,16 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
 ![](https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
 
 ## My GitHub Stats
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=proggleb.proggleb)
-
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-
 <p align="center"> 
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=proggleb&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" >
   <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=proggleb&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
 </p>
-
 
 <details close>
  <summary> <b>Acknowledgements:</b> </summary>
   
   - [Skills badges](https://shields.io/)
   - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
-  - [Visitors badge](https://visitor-badge.laobi.icu/)
   
 </details>
 <!--
