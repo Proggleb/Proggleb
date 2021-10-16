@@ -14,8 +14,6 @@ Recently I fall in love with Data Science and related topics as Natural Language
 
 I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder) however I have a good life. I specially love to meet new people with disorders or diseases and treat everyone with respect.
 
-:closed_book: I'm a: Mathematician
-
 🌱 I’m currently learning: Deep Learning with PyTorch & TensorFlow. Data Science with R. Go. Korean, etc.
 
 :dress: Fun facts: 
