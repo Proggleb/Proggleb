@@ -30,7 +30,7 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
 ![](https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&logo=python&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/Python-Seaborn-informational?style=flat&logo=python&logoColor=white&color=00cccc)
 
-![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=00cccc)
 
 ![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/IDE-Visual--Studio--Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00cccc)
