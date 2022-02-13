@@ -38,10 +38,10 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
 ![](https://img.shields.io/badge/IDE-Visual--Studio--Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=00cccc)
 
-![](https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/AWS-Athena-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/AWS-Glue-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/AWS-S3-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=FF9900)
+![](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=FF9900)
+![](https://img.shields.io/badge/AWS-Athena-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=FF9900)
+![](https://img.shields.io/badge/AWS-Glue-informational?style=flat&logo=Amazon-AWS&logoColor=white&color=FF9900)
 
 ### My GitHub Stats
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
