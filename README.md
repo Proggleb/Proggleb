@@ -24,7 +24,7 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
   - Favorite song: Polyphia - Nasty. Link: https://youtu.be/i7UkKEEGgAQ
   
 ## Skills
-![](https://img.shields.io/badge/AWS-S3-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=FF9900)
+![](https://img.shields.io/badge/AWS-S3-informational?style=plastic&logo=Amazon-AWS&logoColor=black&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Lambda-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Athena-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Glue-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=FF9900)
