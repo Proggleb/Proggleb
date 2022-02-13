@@ -31,9 +31,9 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
 
 ![](https://img.shields.io/badge/Python-3.7+-informational?&style=plastic&logo=python&logoColor=blue&color=00cccc)
 ![](https://img.shields.io/badge/Python-NumPy-informational?style=plastic&logo=numpy&logoColor=blue&color=00cccc)
-![](https://img.shields.io/badge/Python-Pandas-informational?style=plastic&logo=pandas&logoColor=1A237E&color=00cccc)
-![](https://img.shields.io/badge/Python-Dash-informational?style=plastic&logo=plotly&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Python-Plotly-informational?style=plastic&logo=plotly&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Python-Pandas-informational?style=plastic&logo=pandas&logoColor=blue&color=00cccc)
+![](https://img.shields.io/badge/Python-Dash-informational?style=plastic&logo=plotly&logoColor=blue&color=00cccc)
+![](https://img.shields.io/badge/Python-Plotly-informational?style=plastic&logo=plotly&logoColor=blue&color=00cccc)
 ![](https://img.shields.io/badge/Python-Matplotlib-informational?style=plastic&logo=matplot&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/Python-Seaborn-informational?style=plastic&logo=seaborn&logoColor=white&color=00cccc)
 
