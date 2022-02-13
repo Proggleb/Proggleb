@@ -29,19 +29,19 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
 ![](https://img.shields.io/badge/AWS-Athena-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Glue-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=FF9900)
 
-![](https://img.shields.io/badge/Python-Python3-informational?&style=flat&logo=python&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Python-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Python-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Python-Dash-informational?style=flat&logo=plotly&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Python-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&logo=matplot&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Python-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Python-Python3-informational?&style=plastic&logo=python&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Python-NumPy-informational?style=plastic&logo=numpy&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Python-Pandas-informational?style=plastic&logo=pandas&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Python-Dash-informational?style=plastic&logo=plotly&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Python-Plotly-informational?style=plastic&logo=plotly&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Python-Matplotlib-informational?style=plastic&logo=matplot&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Python-Seaborn-informational?style=plastic&logo=seaborn&logoColor=white&color=00cccc)
 
-![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=flat&logo=postgreSQL&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=plastic&logo=postgreSQL&logoColor=white&color=00cccc)
 
-![](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/IDE-Visual--Studio--Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=flat&logo=Jupyter&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/VCS-Git-informational?style=plastic&logo=git&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/IDE-Visual--Studio--Code-informational?style=plastic&logo=visualstudiocode&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=plastic&logo=Jupyter&logoColor=white&color=00cccc)
 
 ### My GitHub Stats
 <!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
