@@ -25,9 +25,9 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
   
 ## Skills
 ![](https://img.shields.io/badge/AWS-S3-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
-![](https://img.shields.io/badge/AWS-Lambda-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=FF9900)
-![](https://img.shields.io/badge/AWS-Athena-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=FF9900)
-![](https://img.shields.io/badge/AWS-Glue-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=FF9900)
+![](https://img.shields.io/badge/AWS-Lambda-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
+![](https://img.shields.io/badge/AWS-Athena-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
+![](https://img.shields.io/badge/AWS-Glue-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 
 ![](https://img.shields.io/badge/Python-Python3-informational?&style=plastic&logo=python&logoColor=white&color=00cccc)
 ![](https://img.shields.io/badge/Python-NumPy-informational?style=plastic&logo=numpy&logoColor=white&color=00cccc)
