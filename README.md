@@ -41,6 +41,8 @@ I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder)
 
 ![](https://img.shields.io/badge/VCS-Git-informational?style=plastic&logo=git&logoColor=#E74C3C&color=#E74C3C)
 
+Tutorial [SPA]: https://www.youtube.com/playlist?list=PLTd5ehIj0goMCnj6V5NdzSIHBgrIXckGU
+
 ![](https://img.shields.io/badge/IDE-Visual--Studio--Code-informational?style=plastic&logo=visualstudiocode&logoColor=#81D4FA&color=#81D4FA)
 ![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=plastic&logo=Jupyter&logoColor=#FF9800&color=#FF9800)
 
