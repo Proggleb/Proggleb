@@ -11,14 +11,14 @@ I am a formerly pure mathematician from Universidad Nacional Autónoma de Méxic
   - Favorite song: Polyphia - Nasty. Link: https://youtu.be/i7UkKEEGgAQ
   
 ## Skills
-![](https://img.shields.io/badge/AWS-S3-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
+![](https://img.shields.io/badge/AWS-S3-informational?style=plastic&logo=Amazon-S3&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Glue-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-RDS-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Redshift-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
-![](https://img.shields.io/badge/AWS-EC2-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
+![](https://img.shields.io/badge/AWS-EC2-informational?style=plastic&logo=Amazon-EC2&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-CloudFormation-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-StepFunctions-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
-![](https://img.shields.io/badge/AWS-SNS-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
+![](https://img.shields.io/badge/AWS-SNS-informational?style=plastic&logo=DD344C&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-SES-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Lambda-informational?style=plastic&logo=AWS-Lambda&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Athena-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
