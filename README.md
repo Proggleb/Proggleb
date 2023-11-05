@@ -37,6 +37,7 @@ I am a formerly pure mathematician from Universidad Nacional Autónoma de Méxic
 
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=plastic&logo=postgreSQL&logoColor=blue&color=#2C3E50)
 
+![](https://img.shields.io/badge/Bash-informational?style=plastic&logo=gnubash&logoColor=blue&color=green)
 
 
 
