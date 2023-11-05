@@ -20,7 +20,7 @@ I am a formerly pure mathematician from Universidad Nacional Autónoma de Méxic
 ![](https://img.shields.io/badge/AWS-StepFunctions-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-SNS-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-SES-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
-![](https://img.shields.io/badge/AWS-Lambda-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
+![](https://img.shields.io/badge/AWS-Lambda-informational?style=plastic&logo=AWS-Lambda&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Athena-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 
 ![](https://img.shields.io/badge/Python-3.7+-informational?&style=plastic&logo=python&logoColor=blue&color=00cccc)
