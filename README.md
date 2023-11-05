@@ -17,7 +17,7 @@ I am a formerly pure mathematician from Universidad Nacional Autónoma de Méxic
 ![](https://img.shields.io/badge/AWS-Redshift-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-EC2-informational?style=plastic&logo=Amazon-EC2&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-CloudFormation-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
-![](https://img.shields.io/badge/AWS-StepFunctions-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
+![](https://img.shields.io/badge/AWS-Step_Functions-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-SNS-informational?style=plastic&logo=amazonsimpleemailservice&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-SES-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Lambda-informational?style=plastic&logo=AWS-Lambda&logoColor=FF9900&color=FF9900)
@@ -32,14 +32,19 @@ I am a formerly pure mathematician from Universidad Nacional Autónoma de Méxic
 ![](https://img.shields.io/badge/Python-Seaborn-informational?&style=plastic&logo=python&logoColor=blue&color=00cccc)
 
 ![](https://img.shields.io/badge/Dashboards-Tableau-informational?style=plastic&logo=tableau&logoColor=white&color=FFFFE0)
-![](https://img.shields.io/badge/Dashboards-PowerBI-informational?style=plastic&logo=powerbi&logoColor=white&color=FFFFE0)
-![](https://img.shields.io/badge/Dashboards-AWSQuickSight-informational?style=plastic&logo=quicklook&logoColor=white&color=FFFFE0)
+![](https://img.shields.io/badge/Dashboards-Power_BI-informational?style=plastic&logo=powerbi&logoColor=white&color=FFFFE0)
+![](https://img.shields.io/badge/Dashboards-AWS_QuickSight-informational?style=plastic&color=FFFFE0)
 
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=plastic&logo=postgreSQL&logoColor=blue&color=2C3E50)
 
 ![](https://img.shields.io/badge/Shell_Scripting-Bash-informational?style=plastic&logo=gnubash&logoColor=50C878&color=50C878)
 
 ![](https://img.shields.io/badge/Big_Data-Spark-informational?style=plastic&logo=apachespark&logoColor=E4682A&color=E4682A)
+
+![](https://img.shields.io/badge/Containers-Docker-informational?style=plastic&logo=docker&logoColor=0db7ed&color=0db7ed)
+
+
+0db7ed
 
 
 
