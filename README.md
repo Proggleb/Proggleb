@@ -9,17 +9,12 @@
 # Hi! I am Caleb Aguilar :notes:
 
 ### 💬 BIO: 
+I am a Data Engineer with 2+ years of experience, primarily working with Python, SQL, AWS, and especially with AWS Glue. I really enjoy working with AWS. I also know how to work with Lambda, Athena, RDS, Redshift, S3, and CloudWatch.
+
 I am a formerly pure mathematician from Universidad Nacional Autónoma de México. I love to work in communication / divulgation of science, so my bachelor thesis is written in a way that everyone could read and follow it by easy examples. Was written in Spanish and you can download it as pdf from: http://132.248.9.195/ptd2021/junio/0813173/Index.html
-
-Recently I fall in love with Data Science and related topics as Natural Language Processing. So here you are going to see a little of my work in that way.
-
-I discovered in February of 2021 that I have OCD (Obsessive Compulsive Disorder) however I have a good life. I specially love to meet new people with disorders or diseases and treat everyone with respect.
-
-🌱 I’m currently learning: Deep Learning with PyTorch & TensorFlow. Data Science with R. Go. Korean, etc.
 
 ### :dress: Fun facts: 
   - Im deeply in love with Chaeyoung and Twice so I am a ONCE. <3 
-  - I love diversity and inclusion
   - I am a music lover, specially K-pop & Mathcore, Tech Death Metal
   - Favorite song: Polyphia - Nasty. Link: https://youtu.be/i7UkKEEGgAQ
   
