@@ -33,11 +33,6 @@ Tutorial [SPA]: https://www.youtube.com/playlist?list=PLTd5ehIj0goMCnj6V5NdzSIHB
 ![](https://img.shields.io/badge/IDE-Visual--Studio--Code-informational?style=plastic&logo=visualstudiocode&logoColor=#81D4FA&color=#81D4FA)
 ![](https://img.shields.io/badge/IDE-Jupyter--Notebook-informational?style=plastic&logo=Jupyter&logoColor=#FF9800&color=#FF9800)
 
-### My GitHub Stats
-<!-- Themes: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-<p align="center"> 
-  <img height="137px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=proggleb&layout=compact&theme=react&langs_count=6" alt="Most Used Languages" >
-</p>
 
 <details close>
  <summary> <b>Acknowledgements:</b> </summary>
