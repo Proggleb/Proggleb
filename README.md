@@ -31,6 +31,13 @@ I am a formerly pure mathematician from Universidad Nacional Autónoma de Méxic
 ![](https://img.shields.io/badge/Python-Matplotlib-informational?&style=plastic&logo=python&logoColor=blue&color=00cccc)
 ![](https://img.shields.io/badge/Python-Seaborn-informational?&style=plastic&logo=python&logoColor=blue&color=00cccc)
 
+![](https://img.shields.io/badge/Dashboards-Tableau-informational?style=plastic&logo=tableau&logoColor=white&color=#FFFFE0)
+![](https://img.shields.io/badge/Dashboards-PowerBI-informational?style=plastic&logo=powerbi&logoColor=white&color=#FFFFE0)
+![](https://img.shields.io/badge/Dashboards-AWSQuickSight-informational?style=plastic&logo=quicklook&logoColor=white&color=#FFFFE0)
+
+
+
+
 ![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=plastic&logo=postgreSQL&logoColor=blue&color=#2C3E50)
 
 ![](https://img.shields.io/badge/VCS-Git-informational?style=plastic&logo=git&logoColor=#E74C3C&color=#E74C3C)
