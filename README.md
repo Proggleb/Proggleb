@@ -28,8 +28,8 @@ I am a formerly pure mathematician from Universidad Nacional Autónoma de Méxic
 ![](https://img.shields.io/badge/Python-Pandas-informational?style=plastic&logo=pandas&logoColor=blue&color=00cccc)
 ![](https://img.shields.io/badge/Python-Dash-informational?style=plastic&logo=plotly&logoColor=blue&color=00cccc)
 ![](https://img.shields.io/badge/Python-Plotly-informational?style=plastic&logo=plotly&logoColor=blue&color=00cccc)
-![](https://img.shields.io/badge/Python-Matplotlib-informational?style=plastic&logo=matplot&logoColor=white&color=00cccc)
-![](https://img.shields.io/badge/Python-Seaborn-informational?style=plastic&logo=seaborn&logoColor=white&color=00cccc)
+![](https://img.shields.io/badge/Python-Matplotlib-informational?&style=plastic&logo=python&logoColor=blue&color=00cccc)
+![](https://img.shields.io/badge/Python-Seaborn-informational?&style=plastic&logo=python&logoColor=blue&color=00cccc)
 
 ![](https://img.shields.io/badge/Databases-PostgreSQL-informational?style=plastic&logo=postgreSQL&logoColor=blue&color=#2C3E50)
 
@@ -45,7 +45,6 @@ Tutorial [SPA]: https://www.youtube.com/playlist?list=PLTd5ehIj0goMCnj6V5NdzSIHB
  <summary> <b>Acknowledgements:</b> </summary>
   
   - [Skills badges](https://shields.io/)
-  - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
 <!--
