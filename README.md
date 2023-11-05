@@ -49,7 +49,7 @@ I am a formerly pure mathematician from Universidad Nacional Autónoma de Méxic
 
 ![](https://img.shields.io/badge/VCS-Git-informational?style=plastic&logo=git&logoColor=#E74C3C&color=#E74C3C)
 ![](https://img.shields.io/badge/VCS-GitHub-informational?style=plastic&logo=github&logoColor=#E74C3C&color=#E74C3C)
-![](https://img.shields.io/badge/VCS-AWS_CodeCommit-informational?style=plastic&color=#E74C3C)
+![](https://img.shields.io/badge/VCS-AWS_CodeCommit-informational?style=plastic&logo=CodeCommit&logoColor=#E74C3C&color=#E74C3C)
 
 Git Tutorial in Spanish: https://www.youtube.com/playlist?list=PLTd5ehIj0goMCnj6V5NdzSIHBgrIXckGU
 
