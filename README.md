@@ -22,7 +22,6 @@ I am a formerly pure mathematician from Universidad Nacional Autónoma de Méxic
 ![](https://img.shields.io/badge/AWS-SES-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Lambda-informational?style=plastic&logo=AWS-Lambda&logoColor=FF9900&color=FF9900)
 ![](https://img.shields.io/badge/AWS-Athena-informational?style=plastic&logo=Amazon-AWS&logoColor=FF9900&color=FF9900)
-
 ![](https://img.shields.io/badge/Python-3.7+-informational?&style=plastic&logo=python&logoColor=blue&color=00cccc)
 ![](https://img.shields.io/badge/Python-NumPy-informational?style=plastic&logo=numpy&logoColor=blue&color=00cccc)
 ![](https://img.shields.io/badge/Python-Pandas-informational?style=plastic&logo=pandas&logoColor=blue&color=00cccc)
@@ -30,21 +29,19 @@ I am a formerly pure mathematician from Universidad Nacional Autónoma de Méxic
 ![](https://img.shields.io/badge/Python-Plotly-informational?style=plastic&logo=plotly&logoColor=blue&color=00cccc)
 ![](https://img.shields.io/badge/Python-Matplotlib-informational?&style=plastic&logo=python&logoColor=blue&color=00cccc)
 ![](https://img.shields.io/badge/Python-Seaborn-informational?&style=plastic&logo=python&logoColor=blue&color=00cccc)
-
 ![](https://img.shields.io/badge/Dashboards-Tableau-informational?style=plastic&logo=tableau&logoColor=white&color=FFFFE0)
 ![](https://img.shields.io/badge/Dashboards-Power_BI-informational?style=plastic&logo=powerbi&logoColor=white&color=FFFFE0)
 ![](https://img.shields.io/badge/Dashboards-AWS_QuickSight-informational?style=plastic&color=FFFFE0)
-
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=plastic&logo=postgreSQL&logoColor=blue&color=2C3E50)
-
 ![](https://img.shields.io/badge/Shell_Scripting-Bash-informational?style=plastic&logo=gnubash&logoColor=50C878&color=50C878)
-
 ![](https://img.shields.io/badge/Big_Data-Spark-informational?style=plastic&logo=apachespark&logoColor=E4682A&color=E4682A)
-
 ![](https://img.shields.io/badge/Containers-Docker-informational?style=plastic&logo=docker&logoColor=0db7ed&color=0db7ed)
 
+![](https://img.shields.io/badge/OS-Windows-informational?style=plastic&logo=windows&logoColor=black&color=black)
+![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=black&color=black)
+![](https://img.shields.io/badge/OS-MACOS-informational?style=plastic&logo=macos&logoColor=black&color=black)
 
-0db7ed
+
 
 
 
